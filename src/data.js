@@ -6,6 +6,7 @@ import tour5 from "./assets/images/tour-1.jpeg";
 import tour6 from "./assets/images/tour-2.jpeg";
 import tour7 from "./assets/images/tour-3.jpeg";
 
+
 export const pageLinks = [
   { id: 1, href: "#home", text: "home" },
   { id: 2, href: "#about", text: "about" },
